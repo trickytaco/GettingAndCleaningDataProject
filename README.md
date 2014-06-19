@@ -2,7 +2,6 @@ GettingAndCleaningDataProject
 =============================
 
 Repository for Coursera Getting and Cleaning Data Course Project
-<<<<<<< HEAD
 
 The run_analysis.R script works with data available from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.  The unzipped folder containing the data should be placed into the R working directory.
 
@@ -23,5 +22,3 @@ The script then removes all parentheses from the column names because the parent
 The aggregate command then creates a final data frame (aggMeans) that aggregates the data rows by the Subject and TrainingType columns using the mean function.  As there are 30 subjects and 6 training types, the final data frame has 180 rows.
 
 Finally, the script uses the write.table command to output the aggMeans data frame to a text file as a tidy data set.
-=======
->>>>>>> origin/master
