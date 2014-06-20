@@ -1,15 +1,15 @@
 GettingAndCleaningDataProject
 =============================
 
-Repository for Coursera Getting and Cleaning Data Course Project
+**Repository for Coursera Getting and Cleaning Data Course Project**
 
-Code Book
+*Code Book*
 
-Data Dictionary - Human Activity Recognition Using Smartphones Data Set: Consolidated and Calculated Data
+*Data Dictionary - Human Activity Recognition Using Smartphones Data Set: Consolidated and Calculated Data*
 
-Subject			2
-	Test Subject
-	1..30	Unique identifier for each test subject
+Subject			2  
+	Test Subject  
+	1..30	Unique identifier for each test subject  
 
 TrainingType		1
 	Training Type
